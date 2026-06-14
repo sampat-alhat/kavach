@@ -1,5 +1,6 @@
 # kavanch
 # Web Application Test Environment Setup
+Project KAVACH was completed by Group 3 comprising Sampat Alhat, Prabir Kumar Pradhan, Siva Prasad K, and Rejiya Sulthana. The project focused on network forensics, web application security testing, threat modeling, and practical cybersecurity recommendations.
 
 This project uses Docker Compose to deploy two intentionally vulnerable web applications used for security testing:
 
